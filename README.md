@@ -1,2 +1,2 @@
 # twiterclone
-link to open https://github.com/Rksahu31/twiterclone/settings/pages
+link to open https://rksahu31.github.io/twiterclone/
